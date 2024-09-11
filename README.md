@@ -1,0 +1,1 @@
+This is a compilation of every practice from Odin Project
